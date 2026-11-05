@@ -10,7 +10,7 @@ Aprender a comprender, utilizar e integrar herramientas de inteligencia artifici
 
 ### Módulo 1: Fundamentos de modelos de IA
 - [x] Día 01 - Cómo funciona un modelo de IA
-- [ ] Día 02 - Tokens, contexto y límites
+- [x] Día 02 - Tokens, contexto y límites
 - [ ] Día 03 - Cómo evaluar las respuestas de la IA
 - [ ] Día 04 - Modelos de IA y entrenamiento
 - [ ] Día 05 - Limitaciones, errores y alucinaciones
