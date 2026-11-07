@@ -11,7 +11,7 @@ Aprender a comprender, utilizar e integrar herramientas de inteligencia artifici
 ### Módulo 1: Fundamentos de modelos de IA
 - [x] Día 01 - Cómo funciona un modelo de IA
 - [x] Día 02 - Tokens, contexto y límites
-- [ ] Día 03 - Cómo evaluar las respuestas de la IA
+- [x] Día 03 - Cómo evaluar las respuestas de la IA
 - [ ] Día 04 - Modelos de IA y entrenamiento
 - [ ] Día 05 - Limitaciones, errores y alucinaciones
 
@@ -20,7 +20,7 @@ Aprender a comprender, utilizar e integrar herramientas de inteligencia artifici
 - [ ] Día 07 - Prompts estructurados
 - [ ] Día 08 - Uso de JSON con IA
 - [ ] Día 09 - Descomposición de problemas
-- [ ] Día 10 - Evaluación y mejora de respuestas
+- [ ] Día 10 - Evaluaciónm         y mejora de respuestas
 
 ### Módulo 3: Integración de IA en aplicaciones
 - [ ] Día 11 - Introducción a las APIs de IA
