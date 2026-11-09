@@ -12,7 +12,7 @@ Aprender a comprender, utilizar e integrar herramientas de inteligencia artifici
 - [x] Día 01 - Cómo funciona un modelo de IA
 - [x] Día 02 - Tokens, contexto y límites
 - [x] Día 03 - Cómo evaluar las respuestas de la IA
-- [ ] Día 04 - Modelos de IA y entrenamiento
+- [x] Día 04 - Modelos de IA y entrenamiento
 - [ ] Día 05 - Limitaciones, errores y alucinaciones
 
 ### Módulo 2: Ingeniería de prompts avanzada
