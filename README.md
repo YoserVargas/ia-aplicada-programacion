@@ -13,7 +13,7 @@ Aprender a comprender, utilizar e integrar herramientas de inteligencia artifici
 - [x] Día 02 - Tokens, contexto y límites
 - [x] Día 03 - Cómo evaluar las respuestas de la IA
 - [x] Día 04 - Modelos de IA y entrenamiento
-- [ ] Día 05 - Limitaciones, errores y alucinaciones
+- [x] Día 05 - Limitaciones, errores y alucinaciones
 
 ### Módulo 2: Ingeniería de prompts avanzada
 - [ ] Día 06 - Diseño de prompts avanzados
