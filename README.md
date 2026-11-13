@@ -17,7 +17,7 @@ Aprender a comprender, utilizar e integrar herramientas de inteligencia artifici
 
 ### Módulo 2: Ingeniería de prompts avanzada
 - [x] Día 06 - Diseño de prompts avanzados
-- [ ] Día 07 - Prompts estructurados
+- [x] Día 07 - Prompts estructurados
 - [ ] Día 08 - Uso de JSON con IA
 - [ ] Día 09 - Descomposición de problemas
 - [ ] Día 10 - Evaluaciónm         y mejora de respuestas
