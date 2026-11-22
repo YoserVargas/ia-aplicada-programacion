@@ -19,7 +19,7 @@ Aprender a comprender, utilizar e integrar herramientas de inteligencia artifici
 - [x] Día 06 - Diseño de prompts avanzados
 - [x] Día 07 - Prompts estructurados
 - [x] Día 08 - Uso de JSON con IA
-- [ ] Día 09 - Descomposición de problemas
+- [x] Día 09 - Descomposición de problemas
 - [ ] Día 10 - Evaluaciónm         y mejora de respuestas
 
 ### Módulo 3: Integración de IA en aplicaciones
